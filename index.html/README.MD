@@ -1,3 +1,3 @@
 # New Project
- This is sample project created in local 
- 
+ This is sample project created in local .
+
